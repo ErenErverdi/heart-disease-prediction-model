@@ -1,0 +1,1 @@
+This project predicts the likelihood of heart disease using the K-Nearest Neighbors (KNN) algorithm. The model is trained on clinical features and deployed through an interactive Streamlit web application, allowing users to input patient data and receive real-time predictions.
